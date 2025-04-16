@@ -20,7 +20,7 @@ export default function JoinSection() {
           <Link href="/contact">
             <Button
               variant="outline"
-              className="border-white text-white hover:bg-white hover:text-[#121d3e] px-8 py-6 rounded font-bold text-lg"
+             className="bg-[#0e9aa7] hover:bg-[#0c8b98] text-white px-8 py-6 rounded font-bold text-lg"
             >
               CONTACT US
             </Button>
