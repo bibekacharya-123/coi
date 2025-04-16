@@ -231,7 +231,8 @@ export default function WorkshopsPage() {
                     <circle cx="9" cy="7" r="4" />
                     <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
                     <path d="M16 3.13a4 4 0 0 1 0 7.75" />
-                </svg>
+                  </svg>
+                </div>
                 <h3 className="text-xl font-semibold mb-3">Expert Instructors</h3>
                 <p className="text-gray-600">
                   Learn from industry professionals with extensive experience and knowledge in their fields.
